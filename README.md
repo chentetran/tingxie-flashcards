@@ -9,10 +9,6 @@ To practice writing the characters, use the trackpad chinese handwriting recogni
 
 Reads pinyin and hanzi from a .txt file.
 Format should be the prompt, followed by '|', followed by the correct answer.
-
-Example:
-nǐhǎo|你好
-wǒ|我
-diànnǎo|电脑
+See included .txt files for example.
 
 Doesn't necesarily have to be for tingxies specifically.
